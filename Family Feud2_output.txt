@@ -1,0 +1,604 @@
+
+Name a type of vehicle that's used in the military.
+JEEP/HUMMER	70
+TANK	21
+AIRPLANE	3
+SUPPLY TRUCK	2
+SUBMARINE	2
+HELICOPTER	2
+
+Name something people do with their index finger.
+POINT	63
+PICK NOSE	23
+APPLY MAKEUP	6
+WEAR A RING	4
+SCRATCH	2
+DIAL PHONE	2
+
+Name a famous rabbit.
+BUGS BUNNY	56
+PETER RABBIT	21
+ROGER RABBIT	13
+BRER RABBIT	4
+PETER COTTONTAIL	3
+EASTER BUNNY	3
+
+Name a way to make bathing a sexy experience.
+BRING A FRIEND	45
+BUBBLES/BATH OIL	24
+LIGHT CANDLES	21
+ROSE PETALS	3
+EAT FRUIT	3
+DRINK WINE	3
+
+Name a movie monster you think could take Dracula in a fight.
+GODZILLA	43
+FRANKENSTEIN	26
+KING KONG	13
+WOLFMAN/WEREWOLF	10
+FREDDY KRUEGER	5
+JASON	2
+
+Name one thing people associate with leprechauns.
+RAINBOW/GOLD	39
+IRISH	21
+GOOD LUCK	12
+ST. PATRICK'S DAY	9
+GREEN	9
+FOUR-LEAF CLOVER	9
+
+Name a reason people take out a loan.
+BUY A HOUSE	57
+BUY A CAR	24
+COLLEGE	8
+CONSOLIDATE DEBT	4
+START A BUSINESS	3
+GET MARRIED	2
+
+Name a food women crave when they're pregnant.
+PICKLES	53
+ICE CREAM	20
+CHOCOLATE	18
+PEANUT BUTTER	3
+WATERMELON	2
+PUMPKIN PIE	2
+
+Give me a name that rhymes with "Harry."
+LARRY	35
+BARRY	31
+MARY	19
+KERRY	5
+TERRY	4
+PERRY	4
+
+Name something a man might not notice his wife has changed.
+HER HAIR	78
+THE FURNISHINGS	6
+HER NAIL POLISH	6
+HER WEIGHT	3
+HER UNDIES	2
+HER EARRINGS	2
+
+What excuse would a kid give their teacher for not turning in their homework?
+"DOG ATE IT"	54
+"FORGOT"	19
+"WAS SICK"	11
+"LOST IT"	7
+DON'T HAVE BOOKS	3
+"COMPUTER BROKE"	3
+
+We surveyed 100 men...
+
+Name something of yours that's dirty.
+MY CLOTHES/SHOES	64
+MY CAR	15
+MY FLOOR/ROOM	6
+MY DISHES	4
+MY BODY	4
+MY MIND	3
+
+Give me a word that rhymes with "corn."
+HORN	55
+BORN	19
+PORN	15
+MOURN	3
+TORN	2
+THORN	2
+
+Tell me a word that rhymes with "nude."
+RUDE	37
+DUDE	36
+CRUDE	9
+LEWD	8
+MOOD	3
+FOOD	3
+
+Name a reason why a spouse might end up spending the night on the couch.
+ARGUMENT	60
+TIRED/FELL ASLEEP	16
+SNORING	6
+CAME HOME LATE	6
+DRUNK	5
+SICK	2
+
+Name a famous Matt or Matthew.
+MATT DILLON	49
+MATT DAMON	27
+MATTHEW PERRY	5
+MATTHEW BRODERICK	5
+MATT LEBLANC	5
+MATT LAUER	4
+
+Name any war.
+WORLD WAR II	46
+THE CIVIL WAR	16
+THE VIETNAM WAR	14
+THE GULF WAR	11
+THE KOREAN WAR	5
+IRAQ WAR	3
+
+Name a place people drag themselves to because they think it's good for them.
+TO CHURCH	42
+TO THE GYM	31
+MOVIES/THEATER	7
+DOCTOR'S/HOSPITAL	7
+TO A SPA	4
+THE DENTIST'S	4
+
+Name something that a person might have a phobia about.
+BUGS	40
+HEIGHTS	25
+ENCLOSED AREAS	13
+THE DARK	6
+SNAKES	6
+WATER	5
+
+Name a place you go where you turn your cell phone off.
+HOSPITAL/DR.'S	35
+CHURCH	33
+MOVIE/THEATER	18
+RESTAURANT	5
+HOME	2
+COURTHOUSE	2
+
+Name something every person in America should be able to afford.
+HOUSING	34
+HEALTHCARE/DRUGS	21
+CAR	17
+FOOD	14
+EDUCATION	5
+TV	4
+
+What would be the worst thing that you could be turned down for?
+LOAN	27
+JOB/PROMOTION	24
+DATE/PROM	15
+HOUSE/MORTGAGE	12
+CREDIT CARD	12
+"NOOKIE"	5
+
+Name a character in one of Shakespeare's plays.
+HAMLET	25
+ROMEO	23
+MACBETH	19
+OTHELLO	17
+JULIET	7
+JULIUS CAESAR	4
+
+Name a subject at school you'd hate to find out a ten-year-old knows more about than you.
+MATH	53
+HISTORY	13
+SEX EDUCATION	9
+SCIENCE	9
+COMPUTERS	6
+ENGLISH	4
+
+Name a flower that's also a girl's name.
+ROSE	43
+DAISY	24
+LILY	16
+IRIS	6
+VIOLET	3
+JASMINE	2
+
+Name something men worry about losing.
+THEIR HAIR	69
+THEIR MONEY	7
+THEIR LIBIDO	5
+A WOMAN	5
+THEIR BODY	4
+THEIR JOB	3
+
+Name something made for people to put their fingers in.
+GLOVE	68
+RING	9
+BOWLING BALL	6
+NOSE	4
+FINGERPAINT	3
+CHINESE HANDCUFFS	3
+
+We surveyed 100 women...
+
+Name something you would rather be than smart.
+RICH	58
+ATTRACTIVE	14
+HEALTHY	9
+HAVE SEX APPEAL	6
+BE POWERFUL	3
+BE A GOOD PERSON	3
+
+Name a way people pass the time in prison.
+READING	47
+LIFTING WEIGHTS	22
+WATCHING TV	13
+WRITING	4
+MAKING LIC. PLATES	4
+PLAYING CARDS	3
+
+Name the most respected newspaper in America.
+NEW YORK TIMES	43
+WALL ST. JOURNAL	16
+NATIONAL ENQUIRER	14
+USA TODAY	10
+DAILY NEWS	6
+WASHINGTON POST	4
+
+Real or fictional, name a famous Betty.
+BETTY BOOP	39
+BETTY FORD	15
+BETTE DAVIS	12
+BETTY RUBBLE	10
+BETTY CROCKER	10
+BETTY WHITE	7
+
+Name an animal that can kill with its bite.
+SNAKE	38
+TIGER	19
+LION	15
+BEAR	9
+SHARK	6
+ALLIGATOR/CROC.	6
+
+Name a fat animal.
+PIG/HOG	33
+ELEPHANT	31
+HIPPOPOTAMUS	9
+COW	8
+WALRUS	6
+BEAR	6
+
+Name something that teeth do.
+CHEW	49
+CHATTER	20
+BITE	10
+GRIND	6
+ROT	4
+HURT	3
+
+Name a movie that contains the word "king."
+THE KING & I	38
+LION KING	25
+KING KONG	21
+MAN WHO WOULD BE	3
+KINGPIN	3
+THREE KINGS	2
+
+Name a country known for good-looking men.
+UNITED STATES	33
+ITALY	24
+FRANCE	16
+SWEDEN	7
+SPAIN	6
+MEXICO	6
+
+Name a famous movie that was all about a dog.
+LASSIE COME HOME	27
+101 DALMATIANS	20
+ALL DOGS...HEAVEN	16
+OLD YELLER	12
+BENJI	11
+BEETHOVEN	6
+
+Name an animal you hope never sits on you.
+ELEPHANT	70
+BEAR	8
+HIPPOPOTAMUS	4
+SKUNK	3
+PORCUPINE	3
+LION	3
+
+Name an important event you'd go to even if you were sick.
+WEDDING	51
+CHURCH SERVICE	14
+FUNERAL	10
+GRADUATION	7
+CONCERT	5
+SPORTING EVENT	4
+
+Name something magicians try to escape from.
+TRUNK/BOX	42
+CHAINS	22
+WATER TANK	11
+HANDCUFFS	9
+STRAITJACKET	4
+CAGE	3
+
+Name the number one state people want to live in.
+CALIFORNIA	32
+FLORIDA	27
+NEW YORK	13
+HAWAII	8
+WASHINGTON	6
+PENNSYLVANIA	5
+
+Name something a person with overly large feet might have a hard time doing.
+BUYING SHOES	45
+DANCING	17
+WALKING	15
+RUNNING	6
+JUMPING ROPE	4
+PUTTING SHOES ON	3
+
+We surveyed 100 men...
+
+Tell me something no woman can resist.
+MONEY	22
+CHARM/COMPLIMENTS	21
+LOOKS/BODY	20
+FLOWERS	14
+JEWELRY	8
+SHOPPING/SALES	5
+
+Name a real or fictional person with "Dick" in his name.
+DICK TRACY	37
+DICK VAN DYKE	16
+DICK CLARK	12
+DICK NIXON	9
+DICK CHENEY	8
+ANDY DICK	7
+
+Name something people are afraid to ride on.
+ROLLER COASTER	44
+AIRPLANE	19
+HORSE	10
+MOTORCYCLE	7
+FERRIS WHEEL	4
+BULL	4
+
+Based on what you've heard or believe, what do you think you'd find in heaven?
+ANGELS	31
+GOD/JESUS	23
+PEACE/HAPPINESS	14
+LOVED ONES	10
+CLOUDS	5
+"PEARLY GATES"	5
+
+Name an animal that likes to stick out its tongue.
+DOG	40
+SNAKE	20
+LIZARD/IGUANA	9
+ANTEATER	8
+MONKEY	5
+FROG	5
+
+Name something that has caused almost everyone to be late for work.
+OVERSLEPT/ALARM	35
+TRAFFIC/ACCIDENT	27
+CAR TROUBLE	9
+BAD WEATHER	6
+PROBLEM W/ KIDS	5
+PHONE CALL	5
+
+Name something that can cause a lot of damage to a home.
+FIRE	35
+WATER/FLOOD	19
+TORNADO	12
+HURRICANE	8
+BUGS	8
+CHILDREN	5
+
+Tell me a word you would use when describing Abraham Lincoln.
+TALL	32
+HONEST	24
+PRESIDENT	15
+EMANCIPATOR	7
+MONEY	5
+BEARD	4
+
+Name something hippies used to wear that may someday come back in style.
+BELL-BOTTOMS	45
+TIE-DYE	16
+BEADS	10
+LONG HAIR	6
+HEADBANDS	6
+GRANNY GLASSES	3
+
+If you were literally in the doghouse for the night, name something you'd like in there with you.
+BLANKET/PILLOW	30
+TV	24
+SIGNIFICANT OTHER	12
+FOOD/WATER	10
+DOG	5
+BOOK/BIBLE	5
+
+Give me a word that rhymes with "bump."
+LUMP	35
+HUMP	17
+JUMP	13
+STUMP	8
+RUMP	7
+DUMP	5
+
+We surveyed 100 married women...
+
+If your husband asked you for a divorce Sunday night, what's the first thing you would do Monday morning?
+SEE LAWYER/FILE	35
+LEAVE HOUSE	17
+KICK HIM OUT	12
+CLEAN OUT BANK	10
+CHANGE LOCKS	7
+ASK HIM WHY?	4
+
+Name a famous Tom.
+TOM HANKS	27
+TOM CRUISE	26
+TOM JONES	13
+TOM ARNOLD	9
+TOM THUMB	5
+TOM SAWYER	5
+
+Name a foreign accent that's pretty easy to imitate.
+FRENCH	26
+SPANISH	24
+BRITISH	18
+IRISH	7
+JAMAICAN	6
+GERMAN	4
+
+Name something in your house you have never cleaned under.
+STOVE/OVEN	25
+REFRIGERATOR	19
+BED	16
+COUCH	15
+TELEVISION	5
+SINK	5
+
+Name a fruit that would be almost impossible to stick up your nose.
+WATERMELON	22
+BANANA	22
+APPLE	16
+ORANGE	12
+MANGO	6
+GRAPE	6
+
+If diamonds are a girl's best friend, what's a guy's?
+DOG	22
+CAR	19
+WOMEN/SEX	18
+MONEY	11
+SPORTS	8
+REMOTE/TV	6
+
+Tell me something that's harder to do backwards than forwards.
+WALK	39
+RUN	17
+DRIVE	10
+ICE-SKATE/SKATE	7
+RIDE A BIKE	5
+READ	5
+
+Name a celebrity who probably still makes millions a year even though they're six feet under.
+ELVIS PRESLEY	53
+BOB HOPE	9
+TUPAC SHAKUR	7
+FRANK SINATRA	6
+MARILYN MONROE	4
+JOHN LENNON	3
+
+Which U.S. city would you be most afraid to live in?
+NEW YORK	40
+LOS ANGELES	13
+DETROIT	11
+WASHINGTON, D.C.	6
+PHILADELPHIA	6
+CHICAGO	6
+
+Name something you'd hate to discover had expired.
+DRIVER'S LICENSE	37
+MILK	18
+CREDIT CARD	12
+INSURANCE	7
+CAR REGISTRATION	5
+MY OWN LIFE	3
+
+We surveyed 100 women...
+
+Name something women do for their little boys that they also do for their husbands.
+COOK	26
+CLEAN UP AFTER	16
+LAUNDRY	15
+KISS/HUG	10
+SHOP FOR THEM	7
+DRESS THEM	7
+
+Name something that you might take from a restaurant.
+SILVERWARE	19
+LEFTOVERS	18
+SALT/PEPPERSHAKER	16
+GLASS/CUP	12
+SWEETENER/SUGAR	7
+NAPKIN	7
+
+Name a male actor with gray hair who women consider sexy.
+SEAN CONNERY	32
+RICHARD GERE	16
+GEORGE CLOONEY	12
+CLINT EASTWOOD	7
+MEL GIBSON	5
+BURT REYNOLDS	5
+
+Real or fictional, tell me someone who has the word "Little" in their name.
+LITTLE RICHARD	31
+STUART LITTLE	12
+RICH LITTLE	12
+LITTLE JOHN	9
+LITTLE BOY BLUE	7
+LIL' BOW WOW	6
+
+Besides Jesus, name a religious figure you would like to ride across the country with in a car.
+MOSES	26
+GOD	15
+BUDDHA	14
+MARY MAGDALENE	8
+MOTHER THERESA	7
+DALAI LAMA	7
+
+Name an animal whose name children mispronounce.
+RHINOCEROS	28
+HIPPOPOTAMUS	17
+ELEPHANT	17
+GIRAFFE	6
+CROCODILE	3
+ALLIGATOR	3
+
+Name an occupation in which you'd get to hear a lot of good gossip.
+HAIRDRESSER	27
+NURSE	12
+SECRETARY/RECEPT.	10
+CLERGY	10
+REPORTER	7
+OPERATOR	6
+
+Name something that slows down a line at the supermarket.
+CHECK WRITING	22
+PRICE CHECK	17
+TOO MUCH STUFF	10
+COUPONS	9
+FOOD STAMPS	7
+CASHIER	7
+
+Name something some people do faster than others.
+RUN	22
+READ	14
+WALK	11
+TYPE	9
+EAT	9
+TALK	6
+
+What's the last thing you did before you left the house this morning?
+LOCKED DOOR	38
+TURNED LIGHTS OFF	8
+KISSED FAMILY BYE	8
+DRANK COFFEE/ATE	6
+TOOK CARE OF PETS	4
+BRUSHED TEETH	4
+
+Who is the best-known person alive today?
+GEORGE W. BUSH	22
+THE POPE	13
+SADDAM HUSSEIN	10
+BILL CLINTON	10
+MICHAEL JACKSON	8
+BILL GATES	5
+
+Back to index
