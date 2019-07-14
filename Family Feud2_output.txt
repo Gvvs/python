@@ -63,7 +63,6 @@ PEANUT BUTTER	3
 WATERMELON	2
 PUMPKIN PIE	2
 
-
 Give me a name that rhymes with "Harry."
 LARRY	35
 BARRY	31
