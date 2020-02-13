@@ -3,6 +3,7 @@
 import re
 import msvcrt
 
+
 ff7 = open("Family Feud2.txt", "r")
 question = []
 ans = [[]]
